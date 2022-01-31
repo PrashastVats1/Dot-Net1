@@ -1,0 +1,14 @@
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.exe
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.deps.json
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.json
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.dev.json
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfo.cs
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\training\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.genruntimeconfig.cache
