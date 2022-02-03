@@ -1,0 +1,13 @@
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache
