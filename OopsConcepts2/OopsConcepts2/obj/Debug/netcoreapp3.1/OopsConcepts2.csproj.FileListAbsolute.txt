@@ -1,0 +1,14 @@
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\bin\Debug\netcoreapp3.1\OopsConcepts2.exe
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\bin\Debug\netcoreapp3.1\OopsConcepts2.deps.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\bin\Debug\netcoreapp3.1\OopsConcepts2.runtimeconfig.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\bin\Debug\netcoreapp3.1\OopsConcepts2.runtimeconfig.dev.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\bin\Debug\netcoreapp3.1\OopsConcepts2.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\bin\Debug\netcoreapp3.1\OopsConcepts2.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\obj\Debug\netcoreapp3.1\OopsConcepts2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\obj\Debug\netcoreapp3.1\OopsConcepts2.AssemblyInfoInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\obj\Debug\netcoreapp3.1\OopsConcepts2.AssemblyInfo.cs
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\obj\Debug\netcoreapp3.1\OopsConcepts2.csproj.CoreCompileInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\obj\Debug\netcoreapp3.1\OopsConcepts2.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\obj\Debug\netcoreapp3.1\OopsConcepts2.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\obj\Debug\netcoreapp3.1\OopsConcepts2.genruntimeconfig.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\OopsConcepts2\OopsConcepts2\obj\Debug\netcoreapp3.1\OopsConcepts2.csproj.AssemblyReference.cache

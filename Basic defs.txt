@@ -1,0 +1,165 @@
+abstarct vs sealed
+
+
+
+abstract cannot be instantiated
+abstract can extent
+
+
+
+
+sealed
+
+
+
+sealed can be instantiated
+sealed cannot extent
+
+
+
+
+abstarct vs interface
+
+
+
+interface
+interface have only declaration
+interface cannot have a constructor
+interface will be implemented
+by default all mmeber of interace are abstarct
+
+
+
+abstract
+abstract have defination and declartion both
+abstarct have a constructor
+abstract will be extended
+have to make are abstarct
+
+
+
+out vs ref parameter
+
+
+
+ref
+
+
+
+we have to insilize before passing the parameter
+
+
+
+out
+we have to insilize before it returns value back to main
+
+
+
+var vs dynamic
+
+
+
+var
+compile time execution
+var i=1;
+i="sample"
+//above line will give error
+it need typecasting
+
+
+
+dynamic
+run time execution
+var i=1;
+i="sample"
+//above line will not give error and output will be sample
+it do not need typecasting .its doing it internally on its own
+
+
+
+
+equals and ==
+
+
+
+
+named parameter vs default parameter
+
+
+
+--named paramter
+Main call
+sum(b:2,a:4)
+Defination
+sum(int a,int b)
+
+
+
+--default parameter
+
+
+
+Main call
+sum(3,4)
+sum(3)
+Defination
+sum(int a,int b=10)
+
+
+
+types contructors
+1.default
+2.pameterized
+3.copy constructor
+4.private constructor
+5.static constructor
+
+
+
+constructor channing
+overloading of constructors
+
+
+
+boxing vs unboxing
+
+
+
+object->data type=>un-boxing
+data-type->object =>boxing
+
+
+
+
+const vs variable
+
+
+
+const value cannot be changes but varibale values can be changed
+
+
+
+string vs stringbuilder
+
+
+
+string is immutable
+strringbuilder is mutable
+
+
+
+
+convert.tostring() vs ToString()
+
+
+
+convert.tostring can handle null values but tostring cannot
+
+
+
+4 pillers of oops
+1.abstraction
+2.polymorphoism==>(operator overloading ,function overloading)=>compile time,method overriding=>run time
+3.inheritance==> single level,multiple level,mulilevel=>class do not support multilevel but we
+ can do by using interface ,hararical
+4.encapsulation => access modifiers=>public protected private internal protected internal
