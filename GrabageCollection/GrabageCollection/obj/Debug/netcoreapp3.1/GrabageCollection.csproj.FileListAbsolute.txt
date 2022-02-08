@@ -1,0 +1,13 @@
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\bin\Debug\netcoreapp3.1\GrabageCollection.exe
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\bin\Debug\netcoreapp3.1\GrabageCollection.deps.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\bin\Debug\netcoreapp3.1\GrabageCollection.runtimeconfig.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\bin\Debug\netcoreapp3.1\GrabageCollection.runtimeconfig.dev.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\bin\Debug\netcoreapp3.1\GrabageCollection.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\bin\Debug\netcoreapp3.1\GrabageCollection.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.AssemblyInfoInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.AssemblyInfo.cs
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.csproj.CoreCompileInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.genruntimeconfig.cache

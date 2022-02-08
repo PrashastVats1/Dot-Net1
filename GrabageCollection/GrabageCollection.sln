@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabageCollection", "GrabageCollection\GrabageCollection.csproj", "{56EBFCEE-3B48-4CBF-B9AC-C8D8D191E066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56EBFCEE-3B48-4CBF-B9AC-C8D8D191E066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EBFCEE-3B48-4CBF-B9AC-C8D8D191E066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EBFCEE-3B48-4CBF-B9AC-C8D8D191E066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EBFCEE-3B48-4CBF-B9AC-C8D8D191E066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E3B4E3-65FB-4027-965F-0AE59B2F07D6}
+	EndGlobalSection
+EndGlobal
