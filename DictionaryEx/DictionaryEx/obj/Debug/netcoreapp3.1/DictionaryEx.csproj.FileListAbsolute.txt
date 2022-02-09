@@ -1,0 +1,13 @@
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\bin\Debug\netcoreapp3.1\DictionaryEx.exe
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\bin\Debug\netcoreapp3.1\DictionaryEx.deps.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\bin\Debug\netcoreapp3.1\DictionaryEx.runtimeconfig.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\bin\Debug\netcoreapp3.1\DictionaryEx.runtimeconfig.dev.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\bin\Debug\netcoreapp3.1\DictionaryEx.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\bin\Debug\netcoreapp3.1\DictionaryEx.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\obj\Debug\netcoreapp3.1\DictionaryEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\obj\Debug\netcoreapp3.1\DictionaryEx.AssemblyInfoInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\obj\Debug\netcoreapp3.1\DictionaryEx.AssemblyInfo.cs
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\obj\Debug\netcoreapp3.1\DictionaryEx.csproj.CoreCompileInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\obj\Debug\netcoreapp3.1\DictionaryEx.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\obj\Debug\netcoreapp3.1\DictionaryEx.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\DictionaryEx\DictionaryEx\obj\Debug\netcoreapp3.1\DictionaryEx.genruntimeconfig.cache
