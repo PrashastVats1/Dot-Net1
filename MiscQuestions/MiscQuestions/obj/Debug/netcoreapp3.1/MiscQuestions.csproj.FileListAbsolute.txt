@@ -1,0 +1,14 @@
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\bin\Debug\netcoreapp3.1\MiscQuestions.exe
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\bin\Debug\netcoreapp3.1\MiscQuestions.deps.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\bin\Debug\netcoreapp3.1\MiscQuestions.runtimeconfig.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\bin\Debug\netcoreapp3.1\MiscQuestions.runtimeconfig.dev.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\bin\Debug\netcoreapp3.1\MiscQuestions.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\bin\Debug\netcoreapp3.1\MiscQuestions.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\obj\Debug\netcoreapp3.1\MiscQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\obj\Debug\netcoreapp3.1\MiscQuestions.AssemblyInfoInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\obj\Debug\netcoreapp3.1\MiscQuestions.AssemblyInfo.cs
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\obj\Debug\netcoreapp3.1\MiscQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\obj\Debug\netcoreapp3.1\MiscQuestions.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\obj\Debug\netcoreapp3.1\MiscQuestions.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\obj\Debug\netcoreapp3.1\MiscQuestions.genruntimeconfig.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\MiscQuestions\MiscQuestions\obj\Debug\netcoreapp3.1\MiscQuestions.csproj.AssemblyReference.cache
